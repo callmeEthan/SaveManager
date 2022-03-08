@@ -6,7 +6,7 @@ If you gaming on a shared computer, managing save for mutiple user might get ted
 This skin will backup and restore save file for multiple user.  
 
 ## How it work?
-When select another user, it will move current save files into a backup directory, then move backup'ed save files to save directories
+When select another user, it will move current save files into a backup directory, then move backup'ed save files to save directories.  
 You can define multiple save directory.  
 The skin uses robocopy command, no plugin required
 
