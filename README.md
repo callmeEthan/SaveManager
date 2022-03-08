@@ -19,7 +19,7 @@ Download and install [skin file](https://github.com/callmeEthan/SaveManager/rele
 - User first load save_manager\display.ini skin  
 - Right click on skin and choose "User profiles", edit username, user count.  
 - Right click on skin and choose "Save directories", edit backup directory, save directory  
-- User can add multiple save directory by adding Dir<number>=dir  
+- User can add multiple save directory by adding Dir(number)=dir, ex: Dir3=C:\User\Documents\Saved Game  
 - User can now click on display skin or manually load save_manager.ini skin to choose user  
 
 ## Authors
