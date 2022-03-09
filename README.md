@@ -24,4 +24,4 @@ Download and install [skin file](https://github.com/callmeEthan/SaveManager/rele
 
 ## Authors
 [Ethan (Finch)](https://github.com/callmeEthan).  
-This skin is quickly and sloppily put together, overall still functional, I might improve open later on
+This skin is quickly and sloppily put together, overall still functional, I might improve open later on (or not)
